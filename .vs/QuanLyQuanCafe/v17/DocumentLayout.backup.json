@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QuanLyQuanCafe\\QuanLyQuanCafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B33AAA4-6D6B-446C-B2C9-5613EFA72E1A}|QuanLyQuanCafe.csproj|d:\\quanlyquancafe\\quanlyquancafe\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B33AAA4-6D6B-446C-B2C9-5613EFA72E1A}|QuanLyQuanCafe.csproj|solutionrelative:usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B33AAA4-6D6B-446C-B2C9-5613EFA72E1A}|QuanLyQuanCafe.csproj|D:\\QuanLyQuanCafe\\QuanLyQuanCafe\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B33AAA4-6D6B-446C-B2C9-5613EFA72E1A}|QuanLyQuanCafe.csproj|solutionrelative:usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B33AAA4-6D6B-446C-B2C9-5613EFA72E1A}|QuanLyQuanCafe.csproj|D:\\QuanLyQuanCafe\\QuanLyQuanCafe\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B33AAA4-6D6B-446C-B2C9-5613EFA72E1A}|QuanLyQuanCafe.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B33AAA4-6D6B-446C-B2C9-5613EFA72E1A}|QuanLyQuanCafe.csproj|D:\\QuanLyQuanCafe\\QuanLyQuanCafe\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B33AAA4-6D6B-446C-B2C9-5613EFA72E1A}|QuanLyQuanCafe.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B33AAA4-6D6B-446C-B2C9-5613EFA72E1A}|QuanLyQuanCafe.csproj|D:\\QuanLyQuanCafe\\QuanLyQuanCafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B33AAA4-6D6B-446C-B2C9-5613EFA72E1A}|QuanLyQuanCafe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B33AAA4-6D6B-446C-B2C9-5613EFA72E1A}|QuanLyQuanCafe.csproj|D:\\QuanLyQuanCafe\\QuanLyQuanCafe\\usermanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B33AAA4-6D6B-446C-B2C9-5613EFA72E1A}|QuanLyQuanCafe.csproj|solutionrelative:usermanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B33AAA4-6D6B-446C-B2C9-5613EFA72E1A}|QuanLyQuanCafe.csproj|D:\\QuanLyQuanCafe\\QuanLyQuanCafe\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B33AAA4-6D6B-446C-B2C9-5613EFA72E1A}|QuanLyQuanCafe.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B33AAA4-6D6B-446C-B2C9-5613EFA72E1A}|QuanLyQuanCafe.csproj|D:\\QuanLyQuanCafe\\QuanLyQuanCafe\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B33AAA4-6D6B-446C-B2C9-5613EFA72E1A}|QuanLyQuanCafe.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B33AAA4-6D6B-446C-B2C9-5613EFA72E1A}|QuanLyQuanCafe.csproj|D:\\QuanLyQuanCafe\\QuanLyQuanCafe\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B33AAA4-6D6B-446C-B2C9-5613EFA72E1A}|QuanLyQuanCafe.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserManager.Designer.cs",
+              "DocumentMoniker": "D:\\QuanLyQuanCafe\\QuanLyQuanCafe\\UserManager.Designer.cs",
+              "RelativeDocumentMoniker": "UserManager.Designer.cs",
+              "ToolTip": "D:\\QuanLyQuanCafe\\QuanLyQuanCafe\\UserManager.Designer.cs",
+              "RelativeToolTip": "UserManager.Designer.cs",
+              "ViewState": "AgIAANoAAABAmpmZmVkwwOgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:48:58.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuanLyQuanCafe\\QuanLyQuanCafe\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\QuanLyQuanCafe\\QuanLyQuanCafe\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:37:52.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\QuanLyQuanCafe\\QuanLyQuanCafe\\Manager.cs",
+              "RelativeDocumentMoniker": "Manager.cs",
+              "ToolTip": "D:\\QuanLyQuanCafe\\QuanLyQuanCafe\\Manager.cs",
+              "RelativeToolTip": "Manager.cs",
+              "ViewState": "AgIAAAcAAAAALjMzMzPbvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:08:03.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "D:\\QuanLyQuanCafe\\QuanLyQuanCafe\\UserManager.cs",
+              "RelativeDocumentMoniker": "UserManager.cs",
+              "ToolTip": "D:\\QuanLyQuanCafe\\QuanLyQuanCafe\\UserManager.cs",
+              "RelativeToolTip": "UserManager.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAqwEgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:27:21.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\QuanLyQuanCafe\\QuanLyQuanCafe\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\QuanLyQuanCafe\\QuanLyQuanCafe\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-26T04:00:27.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\QuanLyQuanCafe\\QuanLyQuanCafe\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\QuanLyQuanCafe\\QuanLyQuanCafe\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:19:05.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserManager.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyQuanCafe\\QuanLyQuanCafe\\UserManager.cs",
+              "RelativeDocumentMoniker": "UserManager.cs",
+              "ToolTip": "D:\\QuanLyQuanCafe\\QuanLyQuanCafe\\UserManager.cs [Design]",
+              "RelativeToolTip": "UserManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:59:09.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyQuanCafe\\QuanLyQuanCafe\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\QuanLyQuanCafe\\QuanLyQuanCafe\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:57:07.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\QuanLyQuanCafe\\QuanLyQuanCafe\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Login.Designer.cs",
+              "ToolTip": "D:\\QuanLyQuanCafe\\QuanLyQuanCafe\\Login.Designer.cs",
+              "RelativeToolTip": "Login.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:10:47.832Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
